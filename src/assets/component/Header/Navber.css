@@ -1,0 +1,12 @@
+.active-link {
+    text-decoration: underline;
+    
+  }
+
+  nav a{
+    margin-right: 20px;
+    font-size: 20px;
+    color: gray;
+  }
+
+
