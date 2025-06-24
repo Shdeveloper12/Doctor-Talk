@@ -4,6 +4,10 @@ This project aims to demonstrate a medical consultation or health services UI, f
 
 ![](https://github.com/Shdeveloper12/Doctor-Talk/blob/main/doctor.png)
 
+
+# Live Link
+1. https://doctortalk1.netlify.app
+
 # Technology Stack
 # Frontend
 React.js – Component-based UI
