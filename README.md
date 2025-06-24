@@ -2,7 +2,7 @@
 
 This project aims to demonstrate a medical consultation or health services UI, focusing on user experience, responsive layout, and data-driven components.
 
-![]()
+![](https://github.com/Shdeveloper12/Doctor-Talk/blob/main/doctor.png)
 
 # Technology Stack
 # Frontend
